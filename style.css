@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif; /* Font style */
+  color: #333333;                 /* Text color */
+  line-height: 1.6;               /* Space between lines */
+  margin: 40px;
+}
+
+h1 {
+  font-size: 2.5rem;              /* Text size */
+  color: #1a73e8;
+  text-transform: uppercase;      /* Makes text all caps */
+  letter-spacing: 1px;            /* Space between letters */
+}
+
+.intro {
+  font-size: 1.2rem;
+  font-weight: bold;              /* Bold text */
+}
+
+.highlight {
+  background-color: #fff3cd;
+  padding: 2px 6px;
+}
